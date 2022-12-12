@@ -6,7 +6,7 @@
 <h3> <p align="center"> PYGAME </p> </h3>
 <h3> <p align="center"> ================= </p> </h3>
 
->> ![delta](img/capa.png)
+![delta](img/capa.png)
 
 
 
