@@ -1,0 +1,12 @@
+
+opencv-python==4.6.0.66
+playsound==1.2.2
+priority==2.0.0
+PyAudio==0.2.12
+PyAutoGUI==0.9.53
+pygame==2.1.2
+pygbag==0.5.0
+PyGetWindow==0.0.9
+Pygments==2.13.0
+PyMsgBox==1.0.9
+pypi==2.1
