@@ -8,7 +8,7 @@
 
 >> <h3> ABELHINHA </h3>
 
-![delta](capa/img.png)
+![delta](img\capa.png)
 
 
 
